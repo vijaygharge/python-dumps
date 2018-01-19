@@ -1,2 +1,2 @@
 # python-dumps
-Dumping random python useful ideas
+Dumping random yet useful python ideas
